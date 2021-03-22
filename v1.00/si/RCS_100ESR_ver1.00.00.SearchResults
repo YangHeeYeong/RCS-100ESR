@@ -1,0 +1,37 @@
+---- NEW_CARD Matches (36 in 9 files) ----
+Card.c (d:\last_file\rcs-100esr\pro\lastesr):	NEW_CARD = 1;
+Card.c (d:\last_file\rcs-100esr\pro\lastesr):	NEW_CARD = 1;
+Card.c (d:\last_file\rcs-100esr\pro\lastesr):	//NEW_CARD = 1;
+Card.c (d:\last_file\rcs-100esr\pro\lastesr):	//NEW_CARD = 1;
+Card.c (d:\last_file\rcs-100esr\pro\lastesr):	//NEW_CARD = 1;
+Card.c (d:\last_file\rcs-100esr\pro\lastesr):	//NEW_CARD = 1;
+Card.c (d:\last_file\rcs-100esr\pro\lastesr):	//NEW_CARD = 1;
+Card.c (d:\last_file\rcs-100esr\pro\lastesr):	//NEW_CARD = 1;
+Card.c (d:\last_file\rcs-100esr\pro\lastesr):	//NEW_CARD = 1;
+Card.c (d:\last_file\rcs-100esr\pro\lastesr):	//NEW_CARD = 1;
+Card.c (d:\last_file\rcs-100esr\pro\lastesr):    //NEW_CARD = 1;  
+Card.c (d:\last_file\rcs-100esr\pro\lastesr):	//NEW_CARD = 1;
+Card.c (d:\last_file\rcs-100esr\pro\lastesr):    //NEW_CARD = 1;  
+Card.c (d:\last_file\rcs-100esr\pro\lastesr):   // NEW_CARD = 1;  
+Card.c (d:\last_file\rcs-100esr\pro\lastesr):		NEW_CARD = 0; //주석 처리시 정보조회기 기능을 하지 않음.		
+Doorlock.c (d:\last_file\rcs-100esr\pro\lastesr):				NEW_CARD = 1;
+Doorlock.c (d:\last_file\rcs-100esr\pro\lastesr):				NEW_CARD = 1;
+Iso14443a.c (d:\last_file\rcs-100esr\pro\lastesr):		NEW_CARD=1;
+Iso14443a.c (d:\last_file\rcs-100esr\pro\lastesr):	NEW_CARD=0;
+Iso14443a.c (d:\last_file\rcs-100esr\pro\lastesr):			NEW_CARD=1;
+Main.c (d:\last_file\rcs-100esr\pro\lastesr):		if(!NEW_CARD) ISO14443A_RunFunction(); //card 인식
+Main.c (d:\last_file\rcs-100esr\pro\lastesr):			if(NEW_CARD)
+Main.c (d:\last_file\rcs-100esr\pro\lastesr):				NEW_CARD = 0;
+Mcu.c (d:\last_file\rcs-100esr\pro\lastesr):volatile BYTE NEW_CARD = 0;
+Mcu.c (d:\last_file\rcs-100esr\pro\lastesr):			if(!NEW_CARD)
+Mcu.c (d:\last_file\rcs-100esr\pro\lastesr):			//if(!NEW_CARD)
+Mcu.c (d:\last_file\rcs-100esr\pro\lastesr):				//NEW_CARD = 1;
+Mcu.c (d:\last_file\rcs-100esr\pro\lastesr):		NEW_CARD = 1;
+Mcu.c (d:\last_file\rcs-100esr\pro\lastesr):	if(!NEW_CARD)
+Mcu.c (d:\last_file\rcs-100esr\pro\lastesr):    if(!DETECT_CARD && !NEW_CARD)	// None Card Reading/ None Request
+Mcu.h (d:\last_file\rcs-100esr\pro\lastesr):extern volatile unsigned char NEW_CARD;
+Online.c (d:\last_file\rcs-100esr\pro\lastesr):	NEW_CARD = RxData0[6];
+Reader.c (d:\last_file\rcs-100esr\pro\lastesr):volatile BYTE DETECT_CARD, NEW_CARD, NORMAL_RESET;
+Reader.c (d:\last_file\rcs-100esr\pro\lastesr):    if(!DETECT_CARD && !NEW_CARD)
+Reader.c (d:\last_file\rcs-100esr\pro\lastesr):	//NEW_CARD=1;
+Reader.h (d:\last_file\rcs-100esr\pro\lastesr):_GLOBAL_ volatile BYTE DETECT_CARD, NEW_CARD, NORMAL_RESET;

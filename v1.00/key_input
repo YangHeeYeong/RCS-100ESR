@@ -1,0 +1,14 @@
+/*
+********************************************************************************
+* Messerschmitt Korea
+* (c) Copyright 2009, Messerschmitt Korea
+*
+* Hardware : RST-500DL
+* Filename : doorlock.c
+* Version  : 1.0
+* Programmer(s): Jong-min Kim
+* Created : 2009/5/12
+* Description : 
+********************************************************************************
+*/
+#include "common.h"

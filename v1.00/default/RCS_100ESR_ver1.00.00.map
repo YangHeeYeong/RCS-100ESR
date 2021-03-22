@@ -1,0 +1,1530 @@
+Archive member included because of file (symbol)
+
+D:\last_file\RCS-100ESR\pro\lastesr\lib\libmifare.a(mifarelib.o)
+                              iso14443a.o (MifareCrypto1Function)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mulsi3.o)
+                              mcu.o (__mulsi3)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodqi4.o)
+                              card.o (__udivmodqi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+                              iso14443.o (__udivmodhi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o (exit)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+                              24lc256.o (__do_clear_bss)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+                              card.o (__fixunssfsi)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o) (__subsf3)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+                              server.o (__mulsf3)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o) (__gesf2)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+                              server.o (__floatsisf)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o) (__fixsfsi)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o) (__thenan_sf)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_usi_to_sf.o)
+                              card.o (__floatunsisf)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_prologue.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_epilogue.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o) (__clzsi2)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o) (__pack_f)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o) (__unpack_f)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o) (__fpcmp_parts_f)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o) (__clz_tab)
+
+Allocating common symbols
+Common symbol       size              file
+
+ReaderBuf0          0x1e              card.o
+ReaderBuf2          0x1e              card.o
+TRH_NFCRxEn         0x1               main.o
+test_act            0x1               24lc256.o
+SubBuf2             0x14              card.o
+TRH_ERR             0x1               main.o
+ReadBuf             0x20              main.o
+RandomB             0x4               main.o
+test_act_test_code  0x1               main.o
+TOV3Count           0x1               timer.o
+TRH_RxLen           0x1               main.o
+test_code           0x1               24lc256.o
+CARD_DATA           0x32              main.o
+fElStart            0x1               main.o
+MIFARE_RxBuf        0x30              main.o
+SaveBuf             0x20              card.o
+RE_cnt              0x2               server.o
+BuildNo             0x1               card.o
+HHTime              0x1               main.o
+tx_data0            0xfa              uart.o
+SubBuf0             0x14              card.o
+ConAddr             0x1               server.o
+DETECT_15693        0x1               main.o
+RandomA             0x4               main.o
+T3OVF               0x1               timer.o
+RE_EA               0x2               server.o
+CallTime            0x1               main.o
+ContactTime3        0x1               main.o
+TRH_NFCRxLen        0x2               main.o
+ReaderAddr          0x1               mcu.o
+DateBuf             0xa               card.o
+TOV0Count           0x1               timer.o
+RoomNumber          0x2               tmoney.o
+NewData0            0x1               uart.o
+keystream           0x16              main.o
+TRH_NFCTxBuf        0x80              main.o
+nCardResult         0x1               card.o
+TRH_INT             0x1               main.o
+T1IRQ               0x1               timer.o
+SubBuf1             0x14              card.o
+TRH_NFCRxBuf        0x80              main.o
+RE_ecnt             0x2               server.o
+TRH_TxBuf           0x80              main.o
+ReaderType          0x1               main.o
+T3IRQ               0x1               timer.o
+ReaderAck0          0x1               card.o
+CRYPTOBUF           0x14              24lc256.o
+cid_toggle          0x1               24lc256.o
+nErrorCode          0x1               card.o
+MiniBarArea         0x1               card.o
+SECTORKEY           0x6               main.o
+uiSecurity          0x2               main.o
+Set_Sectorkey       0x6               main.o
+TOV2Count           0x1               timer.o
+MIFARE_ADDR         0x1               main.o
+AsciiBuf            0x2               uart.o
+uiHotelCode         0x2               card.o
+ReaderAck2          0x1               card.o
+TRH_NFCRxPtr        0x2               main.o
+RE_SCom             0x1               server.o
+ContactTime1        0x1               main.o
+TxData1             0xff              24lc256.o
+MyBuf               0x32              main.o
+DETECT_14443A       0x1               tmoney.o
+uiBlePower          0x2               main.o
+KA                  0x6               D:\last_file\RCS-100ESR\pro\lastesr\lib\libmifare.a(mifarelib.o)
+RoomBuffer2         0x1               card.o
+TRH_LEN             0x1               main.o
+RE_Com              0x1               server.o
+SECTORKEYBUFF       0x6               main.o
+MasterArea          0x1               card.o
+TRH_TxLen           0x1               main.o
+TxCount0            0x2               server.o
+DETECT_14443A_MEM   0x1               tmoney.o
+OverwriteState      0x1               card.o
+test                0x64              24lc256.o
+MIFARE_KEYSEL       0x1               main.o
+MaidArea            0x1               card.o
+pEnterSend          0x2               card.o
+AreaNo              0x1               card.o
+ACID                0xa               24lc256.o
+MIFARE_ACK          0x1               main.o
+ContactTime0        0x1               main.o
+PublicBuf           0x3               card.o
+pEnterSelect        0x2               server.o
+UID                 0x14              main.o
+RE_flag             0x1               server.o
+RoomBuffer0         0x1               card.o
+fElEnd              0x1               main.o
+SAK                 0x1               main.o
+EnterSaveCnt        0x2               card.o
+BUFFER              0x3               main.o
+RFIDBUF             0x1e              24lc256.o
+BusAddress          0x1               main.o
+TRH_NFCTxLen        0x2               main.o
+TotalData           0x30              tmoney.o
+ReaderBuf1          0x1e              card.o
+TransParity         0x14              main.o
+TOV1Count           0x1               timer.o
+save_flag           0x1               main.o
+ContactTime2        0x1               main.o
+ERROR               0x1               24lc256.o
+ResetState          0x1               card.o
+FloorTime           0x1               main.o
+ReaderAck3          0x1               card.o
+FloorArray          0x40              server.o
+T2IRQ               0x1               timer.o
+RE_tmp              0x1               server.o
+TRH_RxBuf           0x80              main.o
+TRH_NFCTxEn         0x1               main.o
+fSuccess            0x1               card.o
+T0IRQ               0x1               timer.o
+BuildBuf            0x3               card.o
+TRH_NFCTxPtr        0x2               main.o
+RLedTime            0x1               main.o
+CARD_UID            0x4               mcu.o
+SpAreaNo            0x1               main.o
+RxData0             0xff              uart.o
+NewData1            0x1               uart.o
+RE_index            0x2               server.o
+cSecurity           0x2               main.o
+Mifare_Set_Addr     0x1               main.o
+ATQA                0x2               main.o
+fHandheld           0x1               main.o
+MIFARE_TxBuf        0x30              main.o
+PublicArray         0x3               server.o
+LEN                 0x1               24lc256.o
+CountSendEnter      0x2               server.o
+ReaderAck1          0x1               card.o
+RE_SA               0x2               server.o
+RoomBuffer1         0x1               card.o
+TxData0             0xfa              server.o
+Office              0x1               main.o
+TransByte           0x14              main.o
+RxData1             0xff              24lc256.o
+pEnterSave          0x2               card.o
+AsciiRoom           0x4               tmoney.o
+RE_mode             0x1               server.o
+fAuthCard           0x1               card.o
+ISO14443_PCB        0x1               main.o
+TagRan              0x4               main.o
+NewData             0x1               uart.o
+FloorNo             0x1               card.o
+RE_flagm            0x1               server.o
+tx_data             0x3c              mcu.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+LOAD 24lc256.o
+LOAD card.o
+LOAD doorlock.o
+LOAD e2prom.o
+LOAD iso14443.o
+LOAD iso14443a.o
+LOAD key_input.o
+LOAD main.o
+LOAD mcu.o
+LOAD mifare.o
+LOAD mifare_crypto.o
+LOAD reader.o
+LOAD rtc.o
+LOAD server.o
+LOAD system.o
+LOAD timer.o
+LOAD tmoney.o
+LOAD trh033m.o
+LOAD uart.o
+LOAD Online.o
+LOAD D:\last_file\RCS-100ESR\pro\lastesr\lib\libmifare.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0xc03a
+ *(.vectors)
+ .vectors       0x00000000       0x8c c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table
+                0x0000008c       0x4a card.o
+ *(.progmem*)
+                0x000000d6                . = ALIGN (0x2)
+                0x000000d6                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000d6        0x0 linker stubs
+ *(.trampolines*)
+                0x000000d6                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000d6                __ctors_start = .
+ *(.ctors)
+                0x000000d6                __ctors_end = .
+                0x000000d6                __dtors_start = .
+ *(.dtors)
+                0x000000d6                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000d6        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+                0x000000d6                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000d6        0xc c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000e2       0x1a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+                0x000000e2                __do_copy_data
+ .init4         0x000000fc       0x10 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+                0x000000fc                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000010c        0x8 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+ *(.init9)
+ *(.text)
+ .text          0x00000114        0x4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+                0x00000114                __vector_22
+                0x00000114                __vector_28
+                0x00000114                __vector_1
+                0x00000114                __vector_32
+                0x00000114                __vector_34
+                0x00000114                __vector_24
+                0x00000114                __vector_12
+                0x00000114                __bad_interrupt
+                0x00000114                __vector_6
+                0x00000114                __vector_31
+                0x00000114                __vector_3
+                0x00000114                __vector_23
+                0x00000114                __vector_25
+                0x00000114                __vector_11
+                0x00000114                __vector_13
+                0x00000114                __vector_17
+                0x00000114                __vector_19
+                0x00000114                __vector_7
+                0x00000114                __vector_27
+                0x00000114                __vector_5
+                0x00000114                __vector_33
+                0x00000114                __vector_4
+                0x00000114                __vector_9
+                0x00000114                __vector_2
+                0x00000114                __vector_21
+                0x00000114                __vector_15
+                0x00000114                __vector_29
+                0x00000114                __vector_8
+                0x00000114                __vector_26
+                0x00000114                __vector_20
+ .text          0x00000118      0x5a2 24lc256.o
+                0x0000013e                i2c_Init
+                0x000001cc                i2c_Acknak
+                0x00000160                i2c_Start
+                0x0000060a                Save_Word_Data
+                0x0000066a                Save_Byte_Data
+                0x00000370                Read_Page_Data
+                0x00000414                Read_Word_Data
+                0x00000594                Save_Page_Data
+                0x00000494                Read_Byte_Data
+                0x00000534                Save_Page_Init
+                0x00000118                i2c_nops
+                0x00000208                i2c_Byte_Write
+                0x0000027a                i2c_Byte_Read
+                0x000001a8                i2c_Clock
+                0x0000030c                i2c_Stop
+                0x000004f0                ReadExtMemoryPageData
+                0x00000126                i2c_delay_us
+ .text          0x000006ba     0x1158 card.o
+                0x000006d2                GetStaffArea
+                0x0000160c                GetPrecheckCard
+                0x000010ee                GetTimeSetCard
+                0x000007ca                GetSystemSecurityNumber
+                0x00000f50                GetAddressCard
+                0x000006ce                RelayOff
+                0x00000d26                GetFunctionCard
+                0x00001758                CheckCardClass
+                0x00000d2c                GetCashCard
+                0x0000120a                GetInitCard
+                0x00000a3a                GetCardDate
+                0x00000c3c                SaveStaffCardData
+                0x000016b2                GetGuestCard
+                0x000014c6                GetEmergencyCard
+                0x00000ab6                SaveDataCount
+                0x00000eee                CardSuccess
+                0x000015a4                GetStandbyCard
+                0x00001544                GetStaffCard
+                0x000011c4                GetHotelCodeCard
+                0x00000e28                CardFailed
+                0x0000095a                GetPrecheckSpecialArea
+                0x00000b52                SaveSetCardData
+                0x0000113e                GetContactCard
+                0x00001336                GetTimeCard
+                0x000006ba                RelayOn
+                0x00000858                Hotelcode_Card_Set
+                0x000013d2                GetResetCard
+                0x000008f0                GetCardChkOutTime
+                0x00000774                GetHotelCode
+                0x00000fba                GetParameterCard
+                0x000010c2                GetAreaSetCard
+                0x000006fc                GetEmergencySecurityNumber
+                0x000009ca                GetSpecialArea
+                0x000007bc                RelayOut
+                0x00000d32                SaveGuestCardData
+                0x00000e86                GetHandheldCard
+ .text          0x00001812      0x124 doorlock.o
+                0x000018d0                TransmitDefaultData
+                0x00001812                BuzzerOn
+                0x0000181a                ReaderRunFunction
+                0x0000187e                UART_RcvDataChk
+                0x00001816                BuzzerOff
+                0x000018b6                UART_Rcv_Command
+ .text          0x00001936       0x74 e2prom.o
+                0x0000197e                e2prom_read_word
+                0x00001936                e2prom_write_byte
+                0x0000196c                e2prom_read_byte
+                0x0000194a                e2prom_write_word
+ .text          0x000019aa      0x9a0 iso14443.o
+                0x00002120                HCE_SELECTDF
+                0x0000228a                ISO14443_RunFunction
+                0x00001af6                HCE_WRITEBINARY
+                0x00001a0a                HCE_FAProcess
+                0x000019aa                HCE_RxRunFunction
+                0x00001fda                HCE_READBINARY
+                0x00001f0c                None_RE
+                0x00001c34                Send_RE
+ .text          0x0000234a      0x6e4 iso14443a.o
+                0x0000286e                ISO14443A_REQA
+                0x0000234a                ISO14443A_REG
+                0x00002394                Mifare_Read
+                0x000024ee                Mifare_Authentication
+                0x00002a00                ISO14443A_Memory
+                0x0000290e                ISO14443A_RunFunction
+                0x0000270c                ISO14443A_ANTISELECT
+ .text          0x00002a2e        0x0 key_input.o
+ .text          0x00002a2e       0xfa main.o
+                0x00002a2e                main
+ .text          0x00002b28      0x7b2 mcu.o
+                0x00002bda                All_LED_Off
+                0x000032c8                ReadCardUID
+                0x00002bea                White_LED_On
+                0x00003138                TransmitNoneCardData
+                0x00002c04                Buzzer_Off
+                0x00002b98                CrcCompute
+                0x000031a4                TransmitCardData
+                0x00002d5e                BLE_Time_Send1
+                0x000030ca                TransmitCardID
+                0x0000320e                ISO14443A_Memory_LOOP
+                0x00002c08                CardNotReturn
+                0x00002de2                BLE_Time_Send
+                0x00002b28                MCU_Init
+                0x00002e6e                BLE_AdPk_Set
+                0x000030b8                BLE_Rcv_Command
+                0x00002be2                Blue_LED_On
+                0x00002bd2                All_LED_On
+                0x00002bfa                Buzzer_On
+                0x0000303e                BLE_Cmd_Function
+                0x00002fcc                BLE_DataTest
+                0x00002bf2                Red_LED_On
+                0x00002c64                BLE_Test1
+                0x00002cf6                BLE_CardResult_Send
+                0x0000325a                ISO14443A_UID_LOOP
+                0x00003238                ReadCardMemory
+ .text          0x000032da      0xaa2 mifare.o
+                0x000032da                MIFARE_WRITE
+                0x0000391e                MIFARE_Authentication
+                0x000038aa                CheckPreCode
+                0x00003c9e                MIFARE_WRITE_RunFunction
+                0x000036f0                MIFARE_READ
+                0x00003cd6                MIFARE_READ_RunFunction
+ .text          0x00003d7c      0xfa0 mifare_crypto.o
+                0x00004a48                KeyLeftShift
+                0x00004cdc                MifareCrc
+                0x00004c06                MifareCrypto1Nibble
+                0x00004cbe                MifareParity
+                0x0000484c                MifareNonlinearFeedback20
+                0x00003d7c                MifarePRNG32
+                0x00004bac                MifareCrypto1Byte
+                0x000047f8                MifareIFilter
+                0x00004794                KeyLeftShiftPosision
+                0x00004c60                MifareCrypto1Parity
+                0x0000494e                MifareLinearFeedback18
+                0x00004aee                MifareCrypto1Round
+ .text          0x00004d1c      0x748 reader.o
+                0x000053d4                TransmitReadingCard
+                0x00004e32                DecodeSpecialArea
+                0x00004dc0                DecodeValidData
+                0x00004de2                DecodeStaffNumber
+                0x0000541c                TransmitDecodingCard
+                0x00005352                CheckCardData
+                0x00004e24                DecodeStaffArea
+                0x00004ed6                DecodeExtentionClass
+                0x00004d4c                DecodeRoomNumber
+                0x00004ef0                DecodeCardData
+                0x00005358                ISO15693_LOOP
+                0x000053b0                CardDetect
+                0x00004d8e                DecodeSecurityNumber
+                0x00005350                ISO15693
+                0x00004d1c                DecodeHotelCode
+ .text          0x00005464      0x356 rtc.o
+                0x000056c0                Rtc_Init
+                0x000057ac                RTC_Write_Sec
+                0x000057a4                RTC_Read_Sec
+                0x000054e8                RTC_Write_Byte
+                0x00005464                bcd_to_binary
+                0x000055c8                Rtc_Write_Data
+                0x0000551c                Rtc_Read_Data
+                0x0000549a                RTC_Read_Byte
+                0x00005478                bin2bcd
+                0x00005492                RTC_Reset
+ .text          0x000057ba     0x20f2 server.o
+                0x000074dc                SetCurrentTime
+                0x00006dea                SetCardSectorKey
+                0x000069a8                RequestHotelCode
+                0x0000782c                UART0_RcvDataChk
+                0x00005826                RequestNTimeSlot
+                0x00007192                UART0_NRcvDataChk
+                0x00005f00                RequestNSpecialAreaNumber
+                0x00006f58                SetNFloorNumber
+                0x00007408                SetRelayContactTime
+                0x000066e8                SetNInitialize
+                0x00006c86                SendEnterDataSet
+                0x000064b0                RequestNEnterData
+                0x00006e58                SetCardSector
+                0x00006d4e                TransmitServerAck
+                0x00006686                SetNCurrentTime
+                0x00005f6c                RequestNRelayContactTime
+                0x0000613e                SetNSpecialAreaNumber
+                0x00006dda                DoorLockControl
+                0x0000753e                SendEnterDataSelect
+                0x000070e2                SetNStaffTimeSlot
+                0x00006054                SetNParameter
+                0x000058c6                RequestNBuildingNumber
+                0x00005ba8                SendNEnterDataSet
+                0x0000656e                RequestNHotelCode
+                0x00006e70                DeleteAllEvent
+                0x00007388                SetAreaNumber
+                0x00005932                RequestNDoorAddress
+                0x00006172                SetNRelayContactTime
+                0x00007126                SetNTimeSlot
+                0x000073bc                SetHotelCode
+                0x0000628a                RequestNInform
+                0x00005ff4                TransmitNServerAck
+                0x00005a3e                RequestNBlePower
+                0x00006ad4                RequestRealTime
+                0x00007058                SetNGroupRoom
+                0x00006c48                RequestSetCode
+                0x00007664                SendEnterData
+                0x00006db0                DoorOnetimeControl
+                0x00006a32                RequestRelayContactTime
+                0x00006f88                SetNBuildingNumber
+                0x00006b70                RequestElevatorFloor
+                0x00006fec                SetNElevatorFloor
+                0x000074c2                SetDefaultCode
+                0x00006914                CheckMobileKey
+                0x00005ac2                RequestNParameter
+                0x00006cde                SendEnterByteData
+                0x00005cd8                SendNEnterData
+                0x0000599a                RequestNElevatorFloorSet
+                0x0000789a                Check_Main_Data
+                0x0000734c                Check_NFC_Data
+                0x00006bdc                RequestSpecialArea
+                0x000061da                SetNBlePower
+                0x000057ba                RequestNFloorNumber
+                0x000065ea                RequestNCurrentTime
+                0x00006fb8                SetNDoorAddress
+                0x00006232                SetNHotelCode
+ .text          0x000078ac      0x2ee system.o
+                0x000078de                Read_BusAddress
+                0x0000796a                Read_CheckoutIime
+                0x000079e4                Read_AreaNumber_eeprom
+                0x00007b3e                Init_Set_Data
+                0x00007a9a                Read_Hotelcode_eeprom
+                0x00007a38                Read_OverwriteState_eeprom
+                0x000078ac                Init_Reader_Address
+                0x00007b06                System_Init
+                0x000078c0                Read_BuildingNumber
+                0x000078fc                Read_LedTime
+                0x000079cc                Read_ReaderType
+ .text          0x00007b9a      0x24a timer.o
+                0x00007d16                Timer1_Sec_Start
+                0x00007cf8                Timer0_mSec_Stop
+                0x00007d40                Timer2_Init
+                0x00007d6e                Timer2_mSec_Stop
+                0x00007d34                Timer1_Sec_Stop
+                0x00007d7a                delay_us
+                0x00007d50                Timer2_mSec_Start
+                0x00007d94                delay_ms
+                0x00007c32                Timer0_mSec_Start
+                0x00007d04                Timer1_Init
+                0x00007b9a                __vector_14
+                0x00007bea                __vector_10
+                0x00007c6c                __vector_16
+                0x00007c4c                Timer0_Init
+ .text          0x00007de4      0xb1c tmoney.o
+                0x00007fdc                ISO14443A_ANTISELECT_HID
+                0x0000812a                ISO14443A_REQA_HID
+                0x00008210                MIFARE_WRITE_HID
+                0x00007f26                ISO14443A_RATS
+                0x000087ea                ISO14443A_HID
+                0x000081b2                ISO14443A_REG_HID
+                0x000081fc                ISO14443A_UID
+                0x00007de4                CalculateChecksum
+                0x00007e0a                ISO14443A_ExchangeBlock1
+                0x000085cc                Mifare_Authentication_HID
+                0x00008484                Mifare_Read_HID
+ .text          0x00008900       0x52 trh033m.o
+                0x00008900                TRH_WRITE
+                0x0000892c                TRH_INIT
+                0x00008912                TRH_READ
+ .text          0x00008952      0x346 uart.o
+                0x00008aec                UART_H2A
+                0x00008c44                PUT_STRING
+                0x00008b82                UART1_PUT_BYTE
+                0x00008bb0                UART1_PUTCH
+                0x00008b92                UART1_PUT_STRING
+                0x00008ae0                UART_TX
+                0x00008c30                UART0_PUTCH
+                0x00008b40                UART0_PUT_BYTE
+                0x000089fe                __vector_30
+                0x00008b48                UART0_PUT_STRING
+                0x00008c70                UART_HEX2ASCII
+                0x00008ac6                Uart0_Init
+                0x00008b14                UART_STRING
+                0x00008b66                Uart1_Init
+                0x00008bf6                Ascii2Hex
+                0x00008952                __vector_18
+                0x00008aa0                GetChecksum
+                0x00008bc0                UART1_HEX2ASCII
+ .text          0x00008c98     0x1212 Online.o
+                0x00009e90                Check_Online_Data
+                0x00009cd0                SetParameter_On
+                0x00009080                SetSecurityNumber_On
+                0x000099f8                SetCurrentTime_On
+                0x00008c98                UART_RcvDataChkSum
+                0x00008cd2                RequestACUEventData
+                0x0000995c                RequestCurrentTime_On
+                0x00008da6                TransmitServerAck_On
+                0x000091d6                SetGuestWorkTime_On
+                0x00009180                SetGuestCKOutTime_On
+                0x00009a52                SetInitialize_On
+                0x00008e40                RequestStaffTimeSlot_On
+                0x00008fb4                RequestReaderParam_On
+                0x0000912e                SetStaffWorkTime_On
+                0x00009256                RequestEventDataSet_On
+                0x00008e0a                Request_ACU_Control
+                0x000090f6                SetSpecialAreaNumber_On
+                0x00009598                Request_EnterData_On
+                0x0000960e                RequestInformation_On
+                0x00009dc6                RequestReaderStatus_On
+                0x00009de4                UART_OnlineRcvDataChk
+                0x000092f4                RequestEventData_On
+                0x00008f04                RequestGuestWorkTime_On
+                0x00008d42                ACUTransmitServerAck
+ .text          0x00009eaa     0x1460 D:\last_file\RCS-100ESR\pro\lastesr\lib\libmifare.a(mifarelib.o)
+                0x0000a97a                MD
+                0x0000acda                MH
+                0x0000ae4a                MifareCrypto1Function
+                0x00009eaa                MA
+                0x0000ac1c                MG
+                0x0000ae0a                ML
+                0x0000ad8e                MJ
+                0x0000a8c2                MB
+                0x0000aa7c                ME
+                0x0000ad34                MI
+                0x0000ab76                MF
+                0x0000a926                MC
+                0x0000adec                MK
+ .text          0x0000b30a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mulsi3.o)
+ .text          0x0000b30a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodqi4.o)
+ .text          0x0000b30a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+ .text          0x0000b30a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .text          0x0000b30a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .text          0x0000b30a       0x58 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+                0x0000b30a                __fixunssfsi
+ .text          0x0000b362      0x354 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+                0x0000b5fa                __subsf3
+                0x0000b65c                __addsf3
+ .text          0x0000b6b6      0x1f4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+                0x0000b6b6                __mulsf3
+ .text          0x0000b8aa       0x60 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+                0x0000b8aa                __gesf2
+ .text          0x0000b90a       0xbc c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+                0x0000b90a                __floatsisf
+ .text          0x0000b9c6       0xa8 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+                0x0000b9c6                __fixsfsi
+ .text          0x0000ba6e        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+ .text          0x0000ba6e       0xf2 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_usi_to_sf.o)
+                0x0000ba6e                __floatunsisf
+ .text          0x0000bb60        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_prologue.o)
+ .text          0x0000bb60        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_epilogue.o)
+ .text          0x0000bb60       0x9e c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+                0x0000bb60                __clzsi2
+ .text          0x0000bbfe      0x1aa c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+                0x0000bbfe                __pack_f
+ .text          0x0000bda8       0xf0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+                0x0000bda8                __unpack_f
+ .text          0x0000be98       0xb2 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+                0x0000be98                __fpcmp_parts_f
+ .text          0x0000bf4a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+                0x0000bf4a                . = ALIGN (0x2)
+ *(.text.*)
+ .text.libgcc   0x0000bf4a       0x3e c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mulsi3.o)
+                0x0000bf4a                __mulsi3
+ .text.libgcc   0x0000bf88       0x18 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodqi4.o)
+                0x0000bf88                __udivmodqi4
+ .text.libgcc   0x0000bfa0       0x28 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+                0x0000bfa0                __udivmodhi4
+ .text.libgcc   0x0000bfc8        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .text.libgcc   0x0000bfc8        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000bfc8       0x38 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_prologue.o)
+                0x0000bfc8                __prologue_saves__
+ .text.libgcc   0x0000c000       0x36 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_epilogue.o)
+                0x0000c000                __epilogue_restores__
+                0x0000c036                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000c036        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+                0x0000c036                exit
+                0x0000c036                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000c036        0x4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000c03a                _etext = .
+
+.data           0x00800100      0x348 load address 0x0000c03a
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+ .data          0x00800100        0x0 24lc256.o
+ .data          0x00800100        0x0 card.o
+ .data          0x00800100        0x0 doorlock.o
+ .data          0x00800100        0x0 e2prom.o
+ .data          0x00800100        0x0 iso14443.o
+ .data          0x00800100        0x6 iso14443a.o
+ .data          0x00800106        0x7 key_input.o
+                0x00800106                Sector_Key
+                0x0080010c                Block_Address
+ .data          0x0080010d        0x0 main.o
+ .data          0x0080010d      0x200 mcu.o
+                0x0080010d                crcTable
+ .data          0x0080030d       0x10 mifare.o
+ .data          0x0080031d        0x0 mifare_crypto.o
+ .data          0x0080031d        0x0 reader.o
+ .data          0x0080031d        0x0 rtc.o
+ .data          0x0080031d       0x20 server.o
+ .data          0x0080033d        0x0 system.o
+ .data          0x0080033d        0x0 timer.o
+ .data          0x0080033d        0x0 tmoney.o
+ .data          0x0080033d        0x0 trh033m.o
+ .data          0x0080033d        0x2 uart.o
+                0x0080033e                RcvLength1
+                0x0080033d                RcvLength0
+ .data          0x0080033f        0x0 Online.o
+ .data          0x0080033f        0x0 D:\last_file\RCS-100ESR\pro\lastesr\lib\libmifare.a(mifarelib.o)
+ .data          0x0080033f        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mulsi3.o)
+ .data          0x0080033f        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodqi4.o)
+ .data          0x0080033f        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+ .data          0x0080033f        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .data          0x0080033f        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .data          0x0080033f        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+ .data          0x0080033f        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .data          0x0080033f        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .data          0x0080033f        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+ .data          0x0080033f        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .data          0x0080033f        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .data          0x0080033f        0x8 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+                0x0080033f                __thenan_sf
+ .data          0x00800347        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_usi_to_sf.o)
+ .data          0x00800347        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_prologue.o)
+ .data          0x00800347        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_epilogue.o)
+ .data          0x00800347        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .data          0x00800347        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .data          0x00800347        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .data          0x00800347        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x00800347      0x100 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+                0x00800347                __clz_tab
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800448                . = ALIGN (0x2)
+ *fill*         0x00800447        0x1 00
+                0x00800448                _edata = .
+                0x00800448                PROVIDE (__data_end, .)
+
+.bss            0x00800448      0xafe
+                0x00800448                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800448        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+ .bss           0x00800448        0x0 24lc256.o
+ .bss           0x00800448        0x0 card.o
+ .bss           0x00800448        0x0 doorlock.o
+ .bss           0x00800448        0x0 e2prom.o
+ .bss           0x00800448        0x0 iso14443.o
+ .bss           0x00800448        0x0 iso14443a.o
+ .bss           0x00800448        0x0 key_input.o
+ .bss           0x00800448        0xa main.o
+                0x0080044e                delay_close
+                0x0080044c                delay_nomal
+                0x00800448                DeviceMode
+                0x0080044b                CLOSE_RESET
+                0x00800449                NormalOpenMode
+                0x00800450                delay_openmode
+                0x0080044a                DoorClose_B_Fg
+ .bss           0x00800452        0x6 mcu.o
+                0x00800456                NORMAL_RESET
+                0x00800455                ACU_DATA_CARD
+                0x00800454                NEW_CARD
+                0x00800453                REQUEST_CARD
+                0x00800457                Time
+                0x00800452                DETECT_CARD
+ .bss           0x00800458        0x0 mifare.o
+ .bss           0x00800458        0x0 mifare_crypto.o
+ .bss           0x00800458        0x0 reader.o
+ .bss           0x00800458        0x8 rtc.o
+                0x0080045a                rtc_hour
+                0x00800458                rtc_sec
+                0x0080045b                rtc_week
+                0x0080045d                rtc_month
+                0x0080045e                rtc_year
+                0x0080045f                rtc_temp
+                0x0080045c                rtc_date
+                0x00800459                rtc_min
+ .bss           0x00800460        0x0 server.o
+ .bss           0x00800460        0x0 system.o
+ .bss           0x00800460        0x0 timer.o
+ .bss           0x00800460        0x0 tmoney.o
+ .bss           0x00800460        0x0 trh033m.o
+ .bss           0x00800460        0x2 uart.o
+                0x00800460                DataCnt0
+                0x00800461                DataCnt1
+ .bss           0x00800462        0x0 Online.o
+ .bss           0x00800462        0x0 D:\last_file\RCS-100ESR\pro\lastesr\lib\libmifare.a(mifarelib.o)
+ .bss           0x00800462        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mulsi3.o)
+ .bss           0x00800462        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodqi4.o)
+ .bss           0x00800462        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+ .bss           0x00800462        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .bss           0x00800462        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .bss           0x00800462        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+ .bss           0x00800462        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .bss           0x00800462        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .bss           0x00800462        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+ .bss           0x00800462        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .bss           0x00800462        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .bss           0x00800462        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+ .bss           0x00800462        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_usi_to_sf.o)
+ .bss           0x00800462        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_prologue.o)
+ .bss           0x00800462        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_epilogue.o)
+ .bss           0x00800462        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .bss           0x00800462        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .bss           0x00800462        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .bss           0x00800462        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x00800462        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x00800462      0x2a3 24lc256.o
+                0x00800462                test_act
+                0x00800463                test_code
+                0x00800464                CRYPTOBUF
+                0x00800478                cid_toggle
+                0x00800479                TxData1
+                0x00800578                test
+                0x008005dc                ACID
+                0x008005e6                RFIDBUF
+                0x00800604                ERROR
+                0x00800605                LEN
+                0x00800606                RxData1
+ COMMON         0x00800705       0xe1 card.o
+                0x00800705                ReaderBuf0
+                0x00800723                ReaderBuf2
+                0x00800741                SubBuf2
+                0x00800755                SaveBuf
+                0x00800775                BuildNo
+                0x00800776                SubBuf0
+                0x0080078a                DateBuf
+                0x00800794                nCardResult
+                0x00800795                SubBuf1
+                0x008007a9                ReaderAck0
+                0x008007aa                nErrorCode
+                0x008007ab                MiniBarArea
+                0x008007ac                uiHotelCode
+                0x008007ae                ReaderAck2
+                0x008007af                RoomBuffer2
+                0x008007b0                MasterArea
+                0x008007b1                OverwriteState
+                0x008007b2                MaidArea
+                0x008007b3                pEnterSend
+                0x008007b5                AreaNo
+                0x008007b6                PublicBuf
+                0x008007b9                RoomBuffer0
+                0x008007ba                EnterSaveCnt
+                0x008007bc                ReaderBuf1
+                0x008007da                ResetState
+                0x008007db                ReaderAck3
+                0x008007dc                fSuccess
+                0x008007dd                BuildBuf
+                0x008007e0                ReaderAck1
+                0x008007e1                RoomBuffer1
+                0x008007e2                pEnterSave
+                0x008007e4                fAuthCard
+                0x008007e5                FloorNo
+ COMMON         0x008007e6      0x386 main.o
+                0x008007e6                TRH_NFCRxEn
+                0x008007e7                TRH_ERR
+                0x008007e8                ReadBuf
+                0x00800808                RandomB
+                0x0080080c                test_act_test_code
+                0x0080080d                TRH_RxLen
+                0x0080080e                CARD_DATA
+                0x00800840                fElStart
+                0x00800841                MIFARE_RxBuf
+                0x00800871                HHTime
+                0x00800872                DETECT_15693
+                0x00800873                RandomA
+                0x00800877                CallTime
+                0x00800878                ContactTime3
+                0x00800879                TRH_NFCRxLen
+                0x0080087b                keystream
+                0x00800891                TRH_NFCTxBuf
+                0x00800911                TRH_INT
+                0x00800912                TRH_NFCRxBuf
+                0x00800992                TRH_TxBuf
+                0x00800a12                ReaderType
+                0x00800a13                SECTORKEY
+                0x00800a19                uiSecurity
+                0x00800a1b                Set_Sectorkey
+                0x00800a21                MIFARE_ADDR
+                0x00800a22                TRH_NFCRxPtr
+                0x00800a24                ContactTime1
+                0x00800a25                MyBuf
+                0x00800a57                uiBlePower
+                0x00800a59                TRH_LEN
+                0x00800a5a                SECTORKEYBUFF
+                0x00800a60                TRH_TxLen
+                0x00800a61                MIFARE_KEYSEL
+                0x00800a62                MIFARE_ACK
+                0x00800a63                ContactTime0
+                0x00800a64                UID
+                0x00800a78                fElEnd
+                0x00800a79                SAK
+                0x00800a7a                BUFFER
+                0x00800a7d                BusAddress
+                0x00800a7e                TRH_NFCTxLen
+                0x00800a80                TransParity
+                0x00800a94                save_flag
+                0x00800a95                ContactTime2
+                0x00800a96                FloorTime
+                0x00800a97                TRH_RxBuf
+                0x00800b17                TRH_NFCTxEn
+                0x00800b18                TRH_NFCTxPtr
+                0x00800b1a                RLedTime
+                0x00800b1b                SpAreaNo
+                0x00800b1c                cSecurity
+                0x00800b1e                Mifare_Set_Addr
+                0x00800b1f                ATQA
+                0x00800b21                fHandheld
+                0x00800b22                MIFARE_TxBuf
+                0x00800b52                Office
+                0x00800b53                TransByte
+                0x00800b67                ISO14443_PCB
+                0x00800b68                TagRan
+ COMMON         0x00800b6c       0x41 mcu.o
+                0x00800b6c                ReaderAddr
+                0x00800b6d                CARD_UID
+                0x00800b71                tx_data
+ COMMON         0x00800bad      0x154 server.o
+                0x00800bad                RE_cnt
+                0x00800baf                ConAddr
+                0x00800bb0                RE_EA
+                0x00800bb2                RE_ecnt
+                0x00800bb4                RE_SCom
+                0x00800bb5                RE_Com
+                0x00800bb6                TxCount0
+                0x00800bb8                pEnterSelect
+                0x00800bba                RE_flag
+                0x00800bbb                FloorArray
+                0x00800bfb                RE_tmp
+                0x00800bfc                RE_index
+                0x00800bfe                PublicArray
+                0x00800c01                CountSendEnter
+                0x00800c03                RE_SA
+                0x00800c05                TxData0
+                0x00800cff                RE_mode
+                0x00800d00                RE_flagm
+ COMMON         0x00800d01        0x9 timer.o
+                0x00800d01                TOV3Count
+                0x00800d02                T3OVF
+                0x00800d03                TOV0Count
+                0x00800d04                T1IRQ
+                0x00800d05                T3IRQ
+                0x00800d06                TOV2Count
+                0x00800d07                TOV1Count
+                0x00800d08                T2IRQ
+                0x00800d09                T0IRQ
+ COMMON         0x00800d0a       0x38 tmoney.o
+                0x00800d0a                RoomNumber
+                0x00800d0c                DETECT_14443A
+                0x00800d0d                DETECT_14443A_MEM
+                0x00800d0e                TotalData
+                0x00800d3e                AsciiRoom
+ COMMON         0x00800d42      0x1fe uart.o
+                0x00800d42                tx_data0
+                0x00800e3c                NewData0
+                0x00800e3d                AsciiBuf
+                0x00800e3f                RxData0
+                0x00800f3e                NewData1
+                0x00800f3f                NewData
+ COMMON         0x00800f40        0x6 D:\last_file\RCS-100ESR\pro\lastesr\lib\libmifare.a(mifarelib.o)
+                0x00800f40                KA
+                0x00800f46                PROVIDE (__bss_end, .)
+                0x0000c03a                __data_load_start = LOADADDR (.data)
+                0x0000c382                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800f46        0x0
+                0x00800f46                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800f46                PROVIDE (__noinit_end, .)
+                0x00800f46                _end = .
+                0x00800f46                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x3c0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 24lc256.o
+ .debug_aranges
+                0x00000020       0x20 card.o
+ .debug_aranges
+                0x00000040       0x20 doorlock.o
+ .debug_aranges
+                0x00000060       0x20 e2prom.o
+ .debug_aranges
+                0x00000080       0x20 iso14443.o
+ .debug_aranges
+                0x000000a0       0x20 iso14443a.o
+ .debug_aranges
+                0x000000c0       0x20 main.o
+ .debug_aranges
+                0x000000e0       0x20 mcu.o
+ .debug_aranges
+                0x00000100       0x20 mifare.o
+ .debug_aranges
+                0x00000120       0x20 mifare_crypto.o
+ .debug_aranges
+                0x00000140       0x20 reader.o
+ .debug_aranges
+                0x00000160       0x20 rtc.o
+ .debug_aranges
+                0x00000180       0x20 server.o
+ .debug_aranges
+                0x000001a0       0x20 system.o
+ .debug_aranges
+                0x000001c0       0x20 timer.o
+ .debug_aranges
+                0x000001e0       0x20 tmoney.o
+ .debug_aranges
+                0x00000200       0x20 trh033m.o
+ .debug_aranges
+                0x00000220       0x20 uart.o
+ .debug_aranges
+                0x00000240       0x20 Online.o
+ .debug_aranges
+                0x00000260       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+ .debug_aranges
+                0x00000280       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x000002a0       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x000002c0       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+ .debug_aranges
+                0x000002e0       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .debug_aranges
+                0x00000300       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .debug_aranges
+                0x00000320       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_usi_to_sf.o)
+ .debug_aranges
+                0x00000340       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x00000360       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x00000380       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x000003a0       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_pubnames
+                0x00000000     0x3113
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000      0x1da 24lc256.o
+ .debug_pubnames
+                0x000001da      0x53c card.o
+ .debug_pubnames
+                0x00000716      0x125 doorlock.o
+ .debug_pubnames
+                0x0000083b      0x109 e2prom.o
+ .debug_pubnames
+                0x00000944      0x144 iso14443.o
+ .debug_pubnames
+                0x00000a88      0x14a iso14443a.o
+ .debug_pubnames
+                0x00000bd2       0xb3 key_input.o
+ .debug_pubnames
+                0x00000c85      0x66e main.o
+ .debug_pubnames
+                0x000012f3      0x307 mcu.o
+ .debug_pubnames
+                0x000015fa      0x138 mifare.o
+ .debug_pubnames
+                0x00001732      0x1b5 mifare_crypto.o
+ .debug_pubnames
+                0x000018e7      0x21e reader.o
+ .debug_pubnames
+                0x00001b05      0x1c0 rtc.o
+ .debug_pubnames
+                0x00001cc5      0x693 server.o
+ .debug_pubnames
+                0x00002358      0x1a8 system.o
+ .debug_pubnames
+                0x00002500      0x216 timer.o
+ .debug_pubnames
+                0x00002716      0x201 tmoney.o
+ .debug_pubnames
+                0x00002917       0xdb trh033m.o
+ .debug_pubnames
+                0x000029f2      0x262 uart.o
+ .debug_pubnames
+                0x00002c54      0x306 Online.o
+ .debug_pubnames
+                0x00002f5a       0x23 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+ .debug_pubnames
+                0x00002f7d       0x2c c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .debug_pubnames
+                0x00002fa9       0x1f c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .debug_pubnames
+                0x00002fc8       0x1e c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+ .debug_pubnames
+                0x00002fe6       0x22 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .debug_pubnames
+                0x00003008       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .debug_pubnames
+                0x00003028       0x22 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+ .debug_pubnames
+                0x0000304a       0x24 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_usi_to_sf.o)
+ .debug_pubnames
+                0x0000306e       0x1f c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .debug_pubnames
+                0x0000308d       0x1f c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .debug_pubnames
+                0x000030ac       0x21 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .debug_pubnames
+                0x000030cd       0x26 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_pubnames
+                0x000030f3       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+
+.debug_info     0x00000000     0xaeef
+ *(.debug_info)
+ .debug_info    0x00000000      0x7e7 24lc256.o
+ .debug_info    0x000007e7      0xf3a card.o
+ .debug_info    0x00001721      0x3f9 doorlock.o
+ .debug_info    0x00001b1a      0x2dc e2prom.o
+ .debug_info    0x00001df6      0x5b0 iso14443.o
+ .debug_info    0x000023a6      0x510 iso14443a.o
+ .debug_info    0x000028b6      0x1d3 key_input.o
+ .debug_info    0x00002a89      0x99b main.o
+ .debug_info    0x00003424      0x9a9 mcu.o
+ .debug_info    0x00003dcd      0x4a7 mifare.o
+ .debug_info    0x00004274      0x63d mifare_crypto.o
+ .debug_info    0x000048b1      0x602 reader.o
+ .debug_info    0x00004eb3      0x56b rtc.o
+ .debug_info    0x0000541e     0x174b server.o
+ .debug_info    0x00006b69      0x45a system.o
+ .debug_info    0x00006fc3      0x43f timer.o
+ .debug_info    0x00007402      0x776 tmoney.o
+ .debug_info    0x00007b78      0x351 trh033m.o
+ .debug_info    0x00007ec9      0x6cb uart.o
+ .debug_info    0x00008594      0xc43 Online.o
+ .debug_info    0x000091d7       0xb1 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+ .debug_info    0x00009288      0x47a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .debug_info    0x00009702      0x485 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .debug_info    0x00009b87      0x27f c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+ .debug_info    0x00009e06      0x207 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .debug_info    0x0000a00d      0x2b0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .debug_info    0x0000a2bd      0x12c c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+ .debug_info    0x0000a3e9      0x206 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_usi_to_sf.o)
+ .debug_info    0x0000a5ef      0x117 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .debug_info    0x0000a706      0x2df c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .debug_info    0x0000a9e5      0x251 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .debug_info    0x0000ac36      0x210 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_info    0x0000ae46       0xa9 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x2daa
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x22a 24lc256.o
+ .debug_abbrev  0x0000022a      0x1a3 card.o
+ .debug_abbrev  0x000003cd      0x13f doorlock.o
+ .debug_abbrev  0x0000050c       0xe7 e2prom.o
+ .debug_abbrev  0x000005f3      0x11f iso14443.o
+ .debug_abbrev  0x00000712      0x1f3 iso14443a.o
+ .debug_abbrev  0x00000905       0x6e key_input.o
+ .debug_abbrev  0x00000973       0xb6 main.o
+ .debug_abbrev  0x00000a29      0x21a mcu.o
+ .debug_abbrev  0x00000c43      0x12e mifare.o
+ .debug_abbrev  0x00000d71      0x190 mifare_crypto.o
+ .debug_abbrev  0x00000f01      0x19e reader.o
+ .debug_abbrev  0x0000109f      0x184 rtc.o
+ .debug_abbrev  0x00001223      0x1b9 server.o
+ .debug_abbrev  0x000013dc       0xe3 system.o
+ .debug_abbrev  0x000014bf      0x103 timer.o
+ .debug_abbrev  0x000015c2      0x27c tmoney.o
+ .debug_abbrev  0x0000183e      0x158 trh033m.o
+ .debug_abbrev  0x00001996      0x268 uart.o
+ .debug_abbrev  0x00001bfe      0x1a8 Online.o
+ .debug_abbrev  0x00001da6       0x5d c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+ .debug_abbrev  0x00001e03      0x1ea c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x00001fed      0x21b c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x00002208      0x15a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+ .debug_abbrev  0x00002362      0x148 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .debug_abbrev  0x000024aa      0x17f c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .debug_abbrev  0x00002629       0xad c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x000026d6      0x157 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_usi_to_sf.o)
+ .debug_abbrev  0x0000282d       0xc4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x000028f1      0x1c0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x00002ab1      0x154 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x00002c05      0x13b c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_abbrev  0x00002d40       0x6a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+
+.debug_line     0x00000000     0xb104
+ *(.debug_line)
+ .debug_line    0x00000000      0x768 24lc256.o
+ .debug_line    0x00000768     0x1642 card.o
+ .debug_line    0x00001daa      0x249 doorlock.o
+ .debug_line    0x00001ff3      0x133 e2prom.o
+ .debug_line    0x00002126      0x844 iso14443.o
+ .debug_line    0x0000296a      0x66a iso14443a.o
+ .debug_line    0x00002fd4       0x66 key_input.o
+ .debug_line    0x0000303a      0x1e7 main.o
+ .debug_line    0x00003221      0xb79 mcu.o
+ .debug_line    0x00003d9a      0x696 mifare.o
+ .debug_line    0x00004430      0x448 mifare_crypto.o
+ .debug_line    0x00004878      0xa09 reader.o
+ .debug_line    0x00005281      0x42f rtc.o
+ .debug_line    0x000056b0     0x20b4 server.o
+ .debug_line    0x00007764      0x3e9 system.o
+ .debug_line    0x00007b4d      0x36c timer.o
+ .debug_line    0x00007eb9      0x910 tmoney.o
+ .debug_line    0x000087c9      0x1f5 trh033m.o
+ .debug_line    0x000089be      0x530 uart.o
+ .debug_line    0x00008eee     0x1286 Online.o
+ .debug_line    0x0000a174       0xa7 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+ .debug_line    0x0000a21b      0x2af c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .debug_line    0x0000a4ca      0x239 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .debug_line    0x0000a703       0xd3 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+ .debug_line    0x0000a7d6      0x135 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .debug_line    0x0000a90b      0x109 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .debug_line    0x0000aa14       0x90 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+ .debug_line    0x0000aaa4      0x133 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_usi_to_sf.o)
+ .debug_line    0x0000abd7       0xa5 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .debug_line    0x0000ac7c      0x18a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .debug_line    0x0000ae06      0x14b c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .debug_line    0x0000af51      0x137 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_line    0x0000b088       0x7c c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+
+.debug_frame    0x00000000     0x1470
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x120 24lc256.o
+ .debug_frame   0x00000120      0x250 card.o
+ .debug_frame   0x00000370       0x70 doorlock.o
+ .debug_frame   0x000003e0       0x50 e2prom.o
+ .debug_frame   0x00000430       0x90 iso14443.o
+ .debug_frame   0x000004c0       0x80 iso14443a.o
+ .debug_frame   0x00000540       0x20 main.o
+ .debug_frame   0x00000560      0x1a0 mcu.o
+ .debug_frame   0x00000700       0x70 mifare.o
+ .debug_frame   0x00000770       0xd0 mifare_crypto.o
+ .debug_frame   0x00000840      0x100 reader.o
+ .debug_frame   0x00000940       0xb0 rtc.o
+ .debug_frame   0x000009f0      0x390 server.o
+ .debug_frame   0x00000d80       0xc0 system.o
+ .debug_frame   0x00000e40       0xf0 timer.o
+ .debug_frame   0x00000f30       0xc0 tmoney.o
+ .debug_frame   0x00000ff0       0x40 trh033m.o
+ .debug_frame   0x00001030      0x130 uart.o
+ .debug_frame   0x00001160      0x190 Online.o
+ .debug_frame   0x000012f0       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x00001310       0x40 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .debug_frame   0x00001350       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .debug_frame   0x00001370       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+ .debug_frame   0x00001390       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .debug_frame   0x000013b0       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .debug_frame   0x000013d0       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_usi_to_sf.o)
+ .debug_frame   0x000013f0       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .debug_frame   0x00001410       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .debug_frame   0x00001430       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x00001450       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_str      0x00000000     0x214b
+ *(.debug_str)
+ .debug_str     0x00000000      0x242 24lc256.o
+                                0x291 (size before relaxing)
+ .debug_str     0x00000242      0x513 card.o
+                                0x65f (size before relaxing)
+ .debug_str     0x00000755       0xb9 doorlock.o
+                                0x1f8 (size before relaxing)
+ .debug_str     0x0000080e       0x63 e2prom.o
+                                0x1a1 (size before relaxing)
+ .debug_str     0x00000871      0x180 iso14443.o
+                                0x2cd (size before relaxing)
+ .debug_str     0x000009f1      0x142 iso14443a.o
+                                0x282 (size before relaxing)
+ .debug_str     0x00000b33        0xf key_input.o
+                                0x11c (size before relaxing)
+ .debug_str     0x00000b42      0x19f main.o
+                                0x540 (size before relaxing)
+ .debug_str     0x00000ce1      0x20b mcu.o
+                                0x451 (size before relaxing)
+ .debug_str     0x00000eec       0x9b mifare.o
+                                0x25a (size before relaxing)
+ .debug_str     0x00000f87      0x133 mifare_crypto.o
+                                0x253 (size before relaxing)
+ .debug_str     0x000010ba      0x15b reader.o
+                                0x2ac (size before relaxing)
+ .debug_str     0x00001215      0x12a rtc.o
+                                0x28c (size before relaxing)
+ .debug_str     0x0000133f      0x514 server.o
+                                0x853 (size before relaxing)
+ .debug_str     0x00001853       0xe3 system.o
+                                0x28b (size before relaxing)
+ .debug_str     0x00001936      0x10c timer.o
+                                0x23e (size before relaxing)
+ .debug_str     0x00001a42      0x114 tmoney.o
+                                0x30f (size before relaxing)
+ .debug_str     0x00001b56       0x3c trh033m.o
+                                0x1ad (size before relaxing)
+ .debug_str     0x00001b92      0x121 uart.o
+                                0x28b (size before relaxing)
+ .debug_str     0x00001cb3      0x220 Online.o
+                                0x4e1 (size before relaxing)
+ .debug_str     0x00001ed3       0x81 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+                                 0xff (size before relaxing)
+ .debug_str     0x00001f54      0x147 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+                                0x207 (size before relaxing)
+ .debug_str     0x0000209b       0x27 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+                                0x1c0 (size before relaxing)
+ .debug_str     0x000020c2        0x8 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+                                0x196 (size before relaxing)
+ .debug_str     0x000020ca       0x18 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+                                0x17c (size before relaxing)
+ .debug_str     0x000020e2        0xa c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+                                0x19f (size before relaxing)
+ .debug_str     0x00000000      0x104 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+ .debug_str     0x000020ec       0x14 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_usi_to_sf.o)
+                                0x178 (size before relaxing)
+ .debug_str     0x00002100       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+                                0x112 (size before relaxing)
+ .debug_str     0x00002120       0x10 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+                                0x19e (size before relaxing)
+ .debug_str     0x00002130        0xb c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+                                0x180 (size before relaxing)
+ .debug_str     0x0000213b       0x10 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+                                0x164 (size before relaxing)
+ .debug_str     0x00000000       0xf5 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+
+.debug_loc      0x00000000     0x4031
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x465 24lc256.o
+ .debug_loc     0x00000465      0x870 card.o
+ .debug_loc     0x00000cd5       0x3c doorlock.o
+ .debug_loc     0x00000d11       0xa3 e2prom.o
+ .debug_loc     0x00000db4      0x358 iso14443.o
+ .debug_loc     0x0000110c      0x16e iso14443a.o
+ .debug_loc     0x0000127a      0x146 mcu.o
+ .debug_loc     0x000013c0       0xe7 mifare.o
+ .debug_loc     0x000014a7      0x4ce mifare_crypto.o
+ .debug_loc     0x00001975      0x5ad reader.o
+ .debug_loc     0x00001f22      0x21f rtc.o
+ .debug_loc     0x00002141      0xa0f server.o
+ .debug_loc     0x00002b50       0xd0 system.o
+ .debug_loc     0x00002c20       0x7e timer.o
+ .debug_loc     0x00002c9e      0x27a tmoney.o
+ .debug_loc     0x00002f18       0x39 trh033m.o
+ .debug_loc     0x00002f51      0x252 uart.o
+ .debug_loc     0x000031a3      0x5ac Online.o
+ .debug_loc     0x0000374f       0x34 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+ .debug_loc     0x00003783      0x32a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .debug_loc     0x00003aad      0x104 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .debug_loc     0x00003bb1       0x3c c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+ .debug_loc     0x00003bed       0xac c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .debug_loc     0x00003c99       0x7e c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .debug_loc     0x00003d17       0x4c c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_usi_to_sf.o)
+ .debug_loc     0x00003d63       0x94 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .debug_loc     0x00003df7      0x13e c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .debug_loc     0x00003f35       0xac c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .debug_loc     0x00003fe1       0x50 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(RCS_100ESR_ver1.00.00.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x98
+ .debug_ranges  0x00000000       0x48 uart.o
+ .debug_ranges  0x00000048       0x50 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
